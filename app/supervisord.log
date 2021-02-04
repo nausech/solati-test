@@ -1,0 +1,327 @@
+2020-09-15 21:36:39,692 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2020-09-15 21:36:39,695 INFO supervisord started with pid 6
+2020-09-15 21:36:40,697 INFO spawned: 'websockets' with pid 12
+2020-09-15 21:36:41,698 INFO success: websockets entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-09-16 01:35:27,909 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2020-09-16 01:35:27,941 INFO supervisord started with pid 6
+2020-09-16 01:35:28,942 INFO spawned: 'websockets' with pid 12
+2020-09-16 01:35:30,235 INFO success: websockets entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-09-16 21:12:02,692 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2020-09-16 21:12:02,883 INFO supervisord started with pid 6
+2020-09-16 21:12:03,886 INFO spawned: 'websockets' with pid 10
+2020-09-16 21:12:04,888 INFO success: websockets entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-09-18 19:45:14,820 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2020-09-18 19:45:14,960 INFO supervisord started with pid 6
+2020-09-18 19:45:15,965 INFO spawned: 'websockets' with pid 12
+2020-09-18 19:45:16,966 INFO success: websockets entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-09-23 21:39:31,004 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2020-09-23 21:39:31,125 INFO supervisord started with pid 6
+2020-09-23 21:39:32,127 INFO spawned: 'websockets' with pid 12
+2020-09-23 21:39:33,786 INFO success: websockets entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-09-25 14:38:30,960 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2020-09-25 14:38:31,002 INFO supervisord started with pid 6
+2020-09-25 14:38:32,004 INFO spawned: 'websockets' with pid 12
+2020-09-25 14:38:33,006 INFO success: websockets entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-09-28 13:27:05,671 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2020-09-28 13:27:05,805 INFO supervisord started with pid 6
+2020-09-28 13:27:06,807 INFO spawned: 'websockets' with pid 12
+2020-09-28 13:27:07,808 INFO success: websockets entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-09-30 16:07:04,054 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2020-09-30 16:07:04,150 INFO supervisord started with pid 6
+2020-09-30 16:07:05,151 INFO spawned: 'websockets' with pid 12
+2020-09-30 16:07:06,153 INFO success: websockets entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-10-02 14:15:11,589 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2020-10-02 14:15:11,621 INFO supervisord started with pid 6
+2020-10-02 14:15:12,623 INFO spawned: 'websockets' with pid 12
+2020-10-02 14:15:13,625 INFO success: websockets entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-10-02 14:41:11,112 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2020-10-02 14:41:11,369 INFO supervisord started with pid 6
+2020-10-02 14:41:12,373 INFO spawned: 'websockets' with pid 12
+2020-10-02 14:41:13,375 INFO success: websockets entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-10-07 20:10:16,254 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2020-10-07 20:10:16,414 INFO supervisord started with pid 6
+2020-10-07 20:10:17,416 INFO spawned: 'websockets' with pid 12
+2020-10-07 20:10:18,417 INFO success: websockets entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-10-08 13:27:19,902 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2020-10-08 13:27:19,980 INFO supervisord started with pid 6
+2020-10-08 13:27:20,982 INFO spawned: 'websockets' with pid 12
+2020-10-08 13:27:22,628 INFO success: websockets entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-10-13 19:40:46,709 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2020-10-13 19:40:46,867 INFO supervisord started with pid 6
+2020-10-13 19:40:47,868 INFO spawned: 'websockets' with pid 12
+2020-10-13 19:40:49,487 INFO success: websockets entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-10-13 20:13:33,911 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2020-10-13 20:13:33,942 INFO supervisord started with pid 6
+2020-10-13 20:13:34,944 INFO spawned: 'websockets' with pid 12
+2020-10-13 20:13:36,186 INFO success: websockets entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-10-13 20:14:59,658 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2020-10-13 20:14:59,663 INFO supervisord started with pid 6
+2020-10-13 20:15:00,666 INFO spawned: 'websockets' with pid 12
+2020-10-13 20:15:01,886 INFO success: websockets entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-10-13 20:27:41,528 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2020-10-13 20:27:41,558 INFO supervisord started with pid 6
+2020-10-13 20:27:42,560 INFO spawned: 'websockets' with pid 12
+2020-10-13 20:27:43,561 INFO success: websockets entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-10-13 20:54:07,459 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2020-10-13 20:54:07,513 INFO supervisord started with pid 6
+2020-10-13 20:54:08,515 INFO spawned: 'websockets' with pid 12
+2020-10-13 20:54:09,816 INFO success: websockets entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-10-15 20:30:53,453 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2020-10-15 20:30:53,672 INFO supervisord started with pid 6
+2020-10-15 20:30:54,674 INFO spawned: 'websockets' with pid 12
+2020-10-15 20:30:55,988 INFO success: websockets entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-10-15 20:33:27,891 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2020-10-15 20:33:27,893 INFO supervisord started with pid 6
+2020-10-15 20:33:28,895 INFO spawned: 'websockets' with pid 12
+2020-10-15 20:33:30,055 INFO success: websockets entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-10-15 20:38:17,251 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2020-10-15 20:38:17,253 INFO supervisord started with pid 6
+2020-10-15 20:38:18,256 INFO spawned: 'websockets' with pid 12
+2020-10-15 20:38:19,395 INFO success: websockets entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-10-15 21:00:19,329 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2020-10-15 21:00:19,403 INFO supervisord started with pid 6
+2020-10-15 21:00:20,404 INFO spawned: 'websockets' with pid 12
+2020-10-15 21:00:21,647 INFO success: websockets entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-10-15 21:12:27,784 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2020-10-15 21:12:27,787 INFO supervisord started with pid 6
+2020-10-15 21:12:28,789 INFO spawned: 'websockets' with pid 12
+2020-10-15 21:12:29,987 INFO success: websockets entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-10-15 21:27:28,608 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2020-10-15 21:27:28,717 INFO supervisord started with pid 6
+2020-10-15 21:27:29,720 INFO spawned: 'websockets' with pid 12
+2020-10-15 21:27:31,052 INFO success: websockets entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-10-15 21:27:31,053 INFO exited: websockets (exit status 255; not expected)
+2020-10-15 21:27:32,058 INFO spawned: 'websockets' with pid 13
+2020-10-15 21:27:32,112 INFO exited: websockets (exit status 255; not expected)
+2020-10-15 21:27:33,114 INFO spawned: 'websockets' with pid 14
+2020-10-15 21:27:33,141 INFO exited: websockets (exit status 255; not expected)
+2020-10-15 21:27:35,144 INFO spawned: 'websockets' with pid 21
+2020-10-15 21:27:35,173 INFO exited: websockets (exit status 255; not expected)
+2020-10-15 21:27:38,180 INFO spawned: 'websockets' with pid 22
+2020-10-15 21:27:38,227 INFO exited: websockets (exit status 255; not expected)
+2020-10-15 21:27:39,229 INFO gave up: websockets entered FATAL state, too many start retries too quickly
+2020-10-15 21:30:44,695 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2020-10-15 21:30:44,698 INFO supervisord started with pid 6
+2020-10-15 21:30:45,700 INFO spawned: 'websockets' with pid 12
+2020-10-15 21:30:45,724 INFO exited: websockets (exit status 255; not expected)
+2020-10-15 21:30:46,726 INFO spawned: 'websockets' with pid 13
+2020-10-15 21:30:46,752 INFO exited: websockets (exit status 255; not expected)
+2020-10-15 21:30:48,757 INFO spawned: 'websockets' with pid 14
+2020-10-15 21:30:48,827 INFO exited: websockets (exit status 255; not expected)
+2020-10-15 21:30:51,832 INFO spawned: 'websockets' with pid 15
+2020-10-15 21:30:51,859 INFO exited: websockets (exit status 255; not expected)
+2020-10-15 21:30:52,861 INFO gave up: websockets entered FATAL state, too many start retries too quickly
+2020-10-15 21:34:30,531 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2020-10-15 21:34:30,746 INFO supervisord started with pid 6
+2020-10-15 21:34:31,748 INFO spawned: 'websockets' with pid 12
+2020-10-15 21:34:31,836 INFO exited: websockets (exit status 255; not expected)
+2020-10-15 21:34:32,840 INFO spawned: 'websockets' with pid 13
+2020-10-15 21:34:32,883 INFO exited: websockets (exit status 255; not expected)
+2020-10-15 21:34:34,885 INFO spawned: 'websockets' with pid 14
+2020-10-15 21:34:34,922 INFO exited: websockets (exit status 255; not expected)
+2020-10-15 21:34:37,927 INFO spawned: 'websockets' with pid 15
+2020-10-15 21:34:37,960 INFO exited: websockets (exit status 255; not expected)
+2020-10-15 21:34:38,962 INFO gave up: websockets entered FATAL state, too many start retries too quickly
+2020-10-15 21:43:42,548 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2020-10-15 21:43:42,651 INFO supervisord started with pid 6
+2020-10-15 21:43:43,652 INFO spawned: 'websockets' with pid 12
+2020-10-15 21:43:43,677 INFO exited: websockets (exit status 255; not expected)
+2020-10-15 21:43:44,679 INFO spawned: 'websockets' with pid 13
+2020-10-15 21:43:44,701 INFO exited: websockets (exit status 255; not expected)
+2020-10-15 21:43:46,706 INFO spawned: 'websockets' with pid 14
+2020-10-15 21:43:46,754 INFO exited: websockets (exit status 255; not expected)
+2020-10-15 21:43:49,761 INFO spawned: 'websockets' with pid 15
+2020-10-15 21:43:49,810 INFO exited: websockets (exit status 255; not expected)
+2020-10-15 21:43:50,811 INFO gave up: websockets entered FATAL state, too many start retries too quickly
+2020-10-15 21:47:28,476 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2020-10-15 21:47:28,499 INFO supervisord started with pid 6
+2020-10-15 21:47:29,500 INFO spawned: 'websockets' with pid 12
+2020-10-15 21:47:29,523 INFO exited: websockets (exit status 255; not expected)
+2020-10-15 21:47:30,525 INFO spawned: 'websockets' with pid 13
+2020-10-15 21:47:30,630 INFO exited: websockets (exit status 255; not expected)
+2020-10-15 21:47:32,635 INFO spawned: 'websockets' with pid 14
+2020-10-15 21:47:32,683 INFO exited: websockets (exit status 255; not expected)
+2020-10-15 21:47:35,689 INFO spawned: 'websockets' with pid 15
+2020-10-15 21:47:35,737 INFO exited: websockets (exit status 255; not expected)
+2020-10-15 21:47:36,738 INFO gave up: websockets entered FATAL state, too many start retries too quickly
+2020-10-15 21:55:18,624 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2020-10-15 21:55:18,660 INFO supervisord started with pid 6
+2020-10-15 21:55:19,662 INFO spawned: 'websockets' with pid 12
+2020-10-15 21:55:19,693 INFO exited: websockets (exit status 255; not expected)
+2020-10-15 21:55:20,695 INFO spawned: 'websockets' with pid 13
+2020-10-15 21:55:20,720 INFO exited: websockets (exit status 255; not expected)
+2020-10-15 21:55:22,723 INFO spawned: 'websockets' with pid 14
+2020-10-15 21:55:22,760 INFO exited: websockets (exit status 255; not expected)
+2020-10-15 21:55:25,766 INFO spawned: 'websockets' with pid 15
+2020-10-15 21:55:25,804 INFO exited: websockets (exit status 255; not expected)
+2020-10-15 21:55:26,805 INFO gave up: websockets entered FATAL state, too many start retries too quickly
+2020-10-16 02:48:41,855 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2020-10-16 02:48:41,943 INFO supervisord started with pid 6
+2020-10-16 02:48:42,947 INFO spawned: 'websockets' with pid 12
+2020-10-16 02:48:43,948 INFO success: websockets entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-10-16 15:30:34,264 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2020-10-16 15:30:34,316 INFO supervisord started with pid 6
+2020-10-16 15:30:35,319 INFO spawned: 'websockets' with pid 12
+2020-10-16 15:30:36,996 INFO success: websockets entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-10-19 12:52:32,587 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2020-10-19 12:52:32,939 INFO supervisord started with pid 6
+2020-10-19 12:52:33,944 INFO spawned: 'websockets' with pid 12
+2020-10-19 12:52:34,947 INFO success: websockets entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-10-23 16:55:18,485 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2020-10-23 16:55:18,667 INFO supervisord started with pid 6
+2020-10-23 16:55:19,669 INFO spawned: 'websockets' with pid 12
+2020-10-23 16:55:20,670 INFO success: websockets entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-10-26 15:49:18,764 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2020-10-26 15:49:19,285 INFO supervisord started with pid 6
+2020-10-26 15:49:20,289 INFO spawned: 'websockets' with pid 12
+2020-10-26 15:49:21,291 INFO success: websockets entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-11-11 13:46:18,231 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2020-11-11 13:46:18,712 INFO supervisord started with pid 6
+2020-11-11 13:46:19,715 INFO spawned: 'websockets' with pid 12
+2020-11-11 13:46:20,717 INFO success: websockets entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-11-14 15:23:52,541 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2020-11-14 15:23:52,684 INFO supervisord started with pid 6
+2020-11-14 15:23:53,687 INFO spawned: 'websockets' with pid 12
+2020-11-14 15:23:55,541 INFO success: websockets entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-11-14 21:38:24,805 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2020-11-14 21:38:24,833 INFO supervisord started with pid 6
+2020-11-14 21:38:25,835 INFO spawned: 'websockets' with pid 12
+2020-11-14 21:38:26,836 INFO success: websockets entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-11-17 13:16:22,337 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2020-11-17 13:16:22,433 INFO supervisord started with pid 6
+2020-11-17 13:16:23,435 INFO spawned: 'websockets' with pid 12
+2020-11-17 13:16:24,437 INFO success: websockets entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-11-18 15:13:58,606 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2020-11-18 15:13:58,627 INFO supervisord started with pid 6
+2020-11-18 15:13:59,628 INFO spawned: 'websockets' with pid 12
+2020-11-18 15:14:00,786 INFO success: websockets entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-11-23 14:32:18,574 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2020-11-23 14:32:18,594 INFO supervisord started with pid 6
+2020-11-23 14:32:19,596 INFO spawned: 'websockets' with pid 12
+2020-11-23 14:32:20,597 INFO success: websockets entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-11-30 14:00:57,145 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2020-11-30 14:00:57,276 INFO supervisord started with pid 6
+2020-11-30 14:00:58,278 INFO spawned: 'websockets' with pid 12
+2020-11-30 14:01:00,130 INFO success: websockets entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-11-30 21:39:30,902 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2020-11-30 21:39:31,035 INFO supervisord started with pid 6
+2020-11-30 21:39:32,037 INFO spawned: 'websockets' with pid 12
+2020-11-30 21:39:33,937 INFO success: websockets entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-12-28 13:10:18,796 WARN received SIGTERM indicating exit request
+2020-12-28 13:10:18,976 INFO waiting for websockets to die
+2020-12-28 13:10:19,022 INFO stopped: websockets (terminated by SIGTERM)
+2020-12-28 14:10:33,237 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2020-12-28 14:10:33,332 INFO supervisord started with pid 6
+2020-12-28 14:10:34,334 INFO spawned: 'websockets' with pid 12
+2020-12-28 14:10:36,228 INFO success: websockets entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-01-02 04:24:41,291 WARN received SIGTERM indicating exit request
+2021-01-02 04:24:41,474 INFO waiting for websockets to die
+2021-01-02 04:24:41,476 INFO stopped: websockets (terminated by SIGTERM)
+2021-01-04 13:02:03,899 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2021-01-04 13:02:04,491 INFO supervisord started with pid 6
+2021-01-04 13:02:05,493 INFO spawned: 'websockets' with pid 12
+2021-01-04 13:02:06,494 INFO success: websockets entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-01-15 13:38:14,587 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2021-01-15 13:38:14,935 INFO supervisord started with pid 6
+2021-01-15 13:38:15,937 INFO spawned: 'websockets' with pid 12
+2021-01-15 13:38:16,938 INFO success: websockets entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-01-26 14:57:20,679 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2021-01-26 14:57:20,761 INFO supervisord started with pid 6
+2021-01-26 14:57:21,763 INFO spawned: 'websockets' with pid 12
+2021-01-26 14:57:22,765 INFO success: websockets entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-01-27 21:53:48,356 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2021-01-27 21:53:48,446 INFO supervisord started with pid 6
+2021-01-27 21:53:49,448 INFO spawned: 'websockets' with pid 12
+2021-01-27 21:53:50,450 INFO success: websockets entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-01 19:13:44,934 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2021-02-01 19:13:45,007 INFO supervisord started with pid 7
+2021-02-01 19:13:46,009 INFO spawned: 'websockets' with pid 13
+2021-02-01 19:13:47,010 INFO success: websockets entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-02 22:28:52,908 WARN received SIGTERM indicating exit request
+2021-02-02 22:28:52,925 INFO waiting for websockets to die
+2021-02-02 22:28:52,926 INFO stopped: websockets (terminated by SIGTERM)
+2021-02-03 15:51:24,671 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2021-02-03 15:51:24,707 INFO supervisord started with pid 7
+2021-02-03 15:51:25,709 INFO spawned: 'websockets' with pid 13
+2021-02-03 15:51:26,710 INFO success: websockets entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-04 01:59:38,764 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2021-02-04 01:59:38,770 INFO supervisord started with pid 6
+2021-02-04 01:59:39,772 INFO spawned: 'websockets' with pid 12
+2021-02-04 01:59:40,966 INFO success: websockets entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-04 03:05:03,973 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2021-02-04 03:05:04,022 INFO supervisord started with pid 6
+2021-02-04 03:05:05,025 INFO spawned: 'websockets' with pid 12
+2021-02-04 03:05:05,104 INFO exited: websockets (exit status 1; not expected)
+2021-02-04 03:05:06,107 INFO spawned: 'websockets' with pid 13
+2021-02-04 03:05:06,150 INFO exited: websockets (exit status 1; not expected)
+2021-02-04 03:05:08,154 INFO spawned: 'websockets' with pid 14
+2021-02-04 03:05:08,181 INFO exited: websockets (exit status 1; not expected)
+2021-02-04 03:05:11,187 INFO spawned: 'websockets' with pid 15
+2021-02-04 03:05:11,214 INFO exited: websockets (exit status 1; not expected)
+2021-02-04 03:05:12,215 INFO gave up: websockets entered FATAL state, too many start retries too quickly
+2021-02-04 03:43:59,655 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2021-02-04 03:43:59,658 INFO supervisord started with pid 6
+2021-02-04 03:44:00,660 INFO spawned: 'websockets' with pid 12
+2021-02-04 03:44:00,690 INFO exited: websockets (exit status 1; not expected)
+2021-02-04 03:44:01,692 INFO spawned: 'websockets' with pid 13
+2021-02-04 03:44:01,723 INFO exited: websockets (exit status 1; not expected)
+2021-02-04 03:44:03,727 INFO spawned: 'websockets' with pid 14
+2021-02-04 03:44:03,757 INFO exited: websockets (exit status 1; not expected)
+2021-02-04 03:44:06,761 INFO spawned: 'websockets' with pid 15
+2021-02-04 03:44:06,791 INFO exited: websockets (exit status 1; not expected)
+2021-02-04 03:44:07,793 INFO gave up: websockets entered FATAL state, too many start retries too quickly
+2021-02-04 04:04:47,208 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2021-02-04 04:04:47,210 INFO supervisord started with pid 6
+2021-02-04 04:04:48,212 INFO spawned: 'websockets' with pid 12
+2021-02-04 04:04:48,235 INFO exited: websockets (exit status 1; not expected)
+2021-02-04 04:04:49,237 INFO spawned: 'websockets' with pid 13
+2021-02-04 04:04:49,260 INFO exited: websockets (exit status 1; not expected)
+2021-02-04 04:04:51,264 INFO spawned: 'websockets' with pid 14
+2021-02-04 04:04:51,295 INFO exited: websockets (exit status 1; not expected)
+2021-02-04 04:04:54,299 INFO spawned: 'websockets' with pid 15
+2021-02-04 04:04:54,330 INFO exited: websockets (exit status 1; not expected)
+2021-02-04 04:04:55,331 INFO gave up: websockets entered FATAL state, too many start retries too quickly
+2021-02-04 04:05:56,050 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2021-02-04 04:05:56,053 INFO supervisord started with pid 6
+2021-02-04 04:05:57,055 INFO spawned: 'websockets' with pid 12
+2021-02-04 04:05:57,085 INFO exited: websockets (exit status 1; not expected)
+2021-02-04 04:05:58,088 INFO spawned: 'websockets' with pid 13
+2021-02-04 04:05:58,110 INFO exited: websockets (exit status 1; not expected)
+2021-02-04 04:06:00,114 INFO spawned: 'websockets' with pid 14
+2021-02-04 04:06:00,137 INFO exited: websockets (exit status 1; not expected)
+2021-02-04 04:06:03,142 INFO spawned: 'websockets' with pid 15
+2021-02-04 04:06:03,165 INFO exited: websockets (exit status 1; not expected)
+2021-02-04 04:06:04,166 INFO gave up: websockets entered FATAL state, too many start retries too quickly
+2021-02-04 04:09:21,133 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2021-02-04 04:09:21,136 INFO supervisord started with pid 6
+2021-02-04 04:09:22,140 INFO spawned: 'websockets' with pid 12
+2021-02-04 04:09:22,172 INFO exited: websockets (exit status 1; not expected)
+2021-02-04 04:09:23,175 INFO spawned: 'websockets' with pid 13
+2021-02-04 04:09:23,203 INFO exited: websockets (exit status 1; not expected)
+2021-02-04 04:09:25,206 INFO spawned: 'websockets' with pid 14
+2021-02-04 04:09:25,239 INFO exited: websockets (exit status 1; not expected)
+2021-02-04 04:09:28,243 INFO spawned: 'websockets' with pid 15
+2021-02-04 04:09:28,277 INFO exited: websockets (exit status 1; not expected)
+2021-02-04 04:09:29,278 INFO gave up: websockets entered FATAL state, too many start retries too quickly
+2021-02-04 04:45:11,021 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2021-02-04 04:45:11,040 INFO supervisord started with pid 6
+2021-02-04 04:45:12,042 INFO spawned: 'websockets' with pid 12
+2021-02-04 04:45:12,155 INFO exited: websockets (exit status 1; not expected)
+2021-02-04 04:45:13,157 INFO spawned: 'websockets' with pid 13
+2021-02-04 04:45:13,181 INFO exited: websockets (exit status 1; not expected)
+2021-02-04 04:45:15,184 INFO spawned: 'websockets' with pid 14
+2021-02-04 04:45:15,208 INFO exited: websockets (exit status 1; not expected)
+2021-02-04 04:45:18,212 INFO spawned: 'websockets' with pid 15
+2021-02-04 04:45:18,236 INFO exited: websockets (exit status 1; not expected)
+2021-02-04 04:45:19,237 INFO gave up: websockets entered FATAL state, too many start retries too quickly
+2021-02-04 22:47:10,444 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2021-02-04 22:47:10,446 INFO supervisord started with pid 7
+2021-02-04 22:47:11,450 INFO spawned: 'websockets' with pid 13
+2021-02-04 22:47:11,500 INFO exited: websockets (exit status 1; not expected)
+2021-02-04 22:47:12,504 INFO spawned: 'websockets' with pid 14
+2021-02-04 22:47:12,528 INFO exited: websockets (exit status 1; not expected)
+2021-02-04 22:47:14,532 INFO spawned: 'websockets' with pid 15
+2021-02-04 22:47:14,557 INFO exited: websockets (exit status 1; not expected)
+2021-02-04 22:47:17,562 INFO spawned: 'websockets' with pid 16
+2021-02-04 22:47:17,588 INFO exited: websockets (exit status 1; not expected)
+2021-02-04 22:47:18,589 INFO gave up: websockets entered FATAL state, too many start retries too quickly

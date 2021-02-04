@@ -1,0 +1,48 @@
+version: '3.3'
+
+services:
+  postgres:
+    restart: always
+    image: postgres:${POSTGRES_VERSION}
+    container_name: ${POSTGRES_CONTAINER_NAME}
+    ports:
+      - ${POSTGRES_HOST_PORT}:5432
+    environment:
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+      POSTGRES_USER: ${POSTGRES_USER}
+      POSTGRES_DB: ${POSTGRES_DB}
+    volumes:
+      - ${POSTGRES_DATA_PATH}:/var/lib/postgresql/data
+    networks:      
+      - docker-php-pg-nginx
+  nginx:
+    image: nginx
+    container_name: ${NGINX_CONTAINER_NAME}
+    volumes:      
+      - ./nginx/default.conf:/etc/nginx/conf.d/default.conf:ro
+      - ./nginx/nginx.conf:/etc/nginx/nginx.conf:ro
+      - ./nginx/cgi.conf:/etc/nginx/fastcgi.conf:ro
+      - ${PHP_CODE_PATH}:/usr/share/nginx/html:rw
+    ports:
+      - ${NGINX_PORT}:80
+      - ${PORT_SSL}:443  
+      - 6001:6001
+    depends_on:
+      - php
+      - postgres
+    networks:
+      - docker-php-pg-nginx      
+   
+  php:
+    build: ./php-fpm
+    container_name: ${PHP_CONTAINER_NAME}
+    volumes:
+      - ${PHP_CODE_PATH}:/var/www/html:rw
+      - ./php-fpm/custom.php.ini:/usr/local/etc/php/php.ini
+    ports:
+      - ${PHP_HOST_PORT}:9000
+    networks:
+      - docker-php-pg-nginx
+      
+networks:
+  docker-php-pg-nginx:     
